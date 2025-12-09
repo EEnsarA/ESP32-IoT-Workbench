@@ -1,0 +1,8 @@
+# Gizli dosyalar (Bunu git görmezden gelecek)
+secrets.h
+
+# Derleme sırasında oluşan çöp dosyalar (Gereksiz kalabalık)
+build/
+*.bin
+*.elf
+.vscode/
