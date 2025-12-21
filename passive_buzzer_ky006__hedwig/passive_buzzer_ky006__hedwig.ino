@@ -106,7 +106,7 @@ void playHedwig() {
       noteDuration *= 1.5; 
     }
 
-   
+  8 
     tone(BUZZER_PIN, melody[thisNote], noteDuration * 0.9);
     delay(noteDuration);
     noTone(BUZZER_PIN);
